@@ -1,7 +1,7 @@
 var config = {
-    token: 'techstack123456',
-    appid: 'wxd7ee10f6b3996719',
-    encodingAESKey: 'SbLVvAzc3uS4oW1ZipsARMTdlPgAYOInHDf25FK15SR'
+    token: 'citic',
+    appid: 'wx35757a6a467768d4',
+    encodingAESKey: 't9ZWY9KLhBuyKcbb1NljVn5YuiMlCAxmL24Uj6WLKgY'
 };
 
 module.exports = config;
